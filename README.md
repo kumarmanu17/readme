@@ -42,13 +42,7 @@ ___
 <h3 align="left"> 💼 Others:</h3>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-___
 
-<h3 align="left">📊 Stats:</h3>
-
-![](https://github-readme-stats.shion.dev/api?username=kumarmanu17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kumarmanu17theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kumarmanu17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
