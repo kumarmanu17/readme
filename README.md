@@ -183,7 +183,7 @@ Build Better 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumarmanu17&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kumarmanu17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmanu17&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
@@ -193,7 +193,7 @@ Build Better 🚀
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarmanu17&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kumarmanu17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/>
 
 </div>
 
