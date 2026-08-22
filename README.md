@@ -7,7 +7,7 @@
 <h3>💻 Computer Science Engineering Student | Developer | Problem Solver</h3>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kumarmanu17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 </div>
@@ -183,9 +183,9 @@ Build Better 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kumarmanu17&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmanu17&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
